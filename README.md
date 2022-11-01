@@ -34,8 +34,8 @@
 ### Assignments
 
   - [x] Assignment 1
-  - [x] Assignment 2
-  - [x] Assignment 3
+  - [ ] Assignment 2
+  - [ ] Assignment 3
   - [ ] Assignment 4
   
 ### About The Project
