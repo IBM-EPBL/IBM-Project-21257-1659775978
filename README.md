@@ -30,13 +30,17 @@
   * Project Planning Phase
     - [x] Project Milestone &  Activity List
     - [x] Sprint Delivery Plan
-
+* Project Development Phase
+  - [x] Sprint 1
+  - [x] Sprint 2
+  - [x] Sprint 3
+  - [ ] Sprint 4
 ### Assignments
 
   - [x] Assignment 1
-  - [ ] Assignment 2
-  - [ ] Assignment 3
-  - [ ] Assignment 4
+  - [x] Assignment 2
+  - [x] Assignment 3
+  - [x] Assignment 4
   
 ### About The Project
 
