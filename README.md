@@ -67,7 +67,7 @@ In this project, we will be developing an application to handle customer queries
   * IBM Watson Assistant
   * IBM Cloud Object Storage
 
-###Demo Video Link
+### Demo Video Link
 https://youtu.be/oImZgPtFpjU
 
-Thank you :)
+### Thank you :)
